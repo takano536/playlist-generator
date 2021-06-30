@@ -1,0 +1,2063 @@
+running build
+running build_exe
+creating directory build\exe.win-amd64-3.8
+copying C:\Users\takanori\miniconda3\envs\m3u8\python38.dll -> build\exe.win-amd64-3.8\python38.dll
+copying C:\Users\takanori\miniconda3\envs\m3u8\python3.dll -> build\exe.win-amd64-3.8\python3.dll
+copying C:\Users\takanori\miniconda3\envs\m3u8\lib\site-packages\cx_Freeze\bases\Console.exe -> build\exe.win-amd64-3.8\main.exe
+*** WARNING *** unable to create version resource
+install pywin32 extensions first
+writing zip file build\exe.win-amd64-3.8\lib\library.zip
+
+  Name                      File
+  ----                      ----
+m BUILD_CONSTANTS           C:\Users\takanori\AppData\Local\Temp\cxfreezecd7e3cbz\constants.py
+
+m __future__                C:\Users\takanori\miniconda3\envs\m3u8\lib\__future__.py
+
+m __startup__               C:\Users\takanori\miniconda3\envs\m3u8\lib\site-packages\cx_Freeze\initscripts\__startup__.py
+
+m _abc                      
+
+m _ast                      
+
+m _asyncio                  C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_asyncio.pyd
+
+m _bisect                   
+
+m _blake2                   
+
+m _bootlocale               C:\Users\takanori\miniconda3\envs\m3u8\lib\_bootlocale.py
+
+m _bz2                      C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_bz2.pyd
+
+m _codecs                   
+
+m _codecs_cn                
+
+m _codecs_hk                
+
+m _codecs_iso2022           
+
+m _codecs_jp                
+
+m _codecs_kr                
+
+m _codecs_tw                
+
+m _collections              
+
+m _collections_abc          C:\Users\takanori\miniconda3\envs\m3u8\lib\_collections_abc.py
+
+m _compat_pickle            C:\Users\takanori\miniconda3\envs\m3u8\lib\_compat_pickle.py
+
+m _compression              C:\Users\takanori\miniconda3\envs\m3u8\lib\_compression.py
+
+m _contextvars              
+
+m _csv                      
+
+m _ctypes                   C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_ctypes.pyd
+
+m _datetime                 
+
+m _decimal                  C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_decimal.pyd
+
+m _elementtree              C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_elementtree.pyd
+
+m _functools                
+
+m _hashlib                  C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_hashlib.pyd
+
+m _heapq                    
+
+m _imp                      
+
+m _io                       
+
+m _locale                   
+
+m _lzma                     C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_lzma.pyd
+
+m _md5                      
+
+m _multibytecodec           
+
+m _multiprocessing          C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_multiprocessing.pyd
+
+m _opcode                   
+
+m _operator                 
+
+m _osx_support              C:\Users\takanori\miniconda3\envs\m3u8\lib\_osx_support.py
+
+m _overlapped               C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_overlapped.pyd
+
+m _pickle                   
+
+m _py_abc                   C:\Users\takanori\miniconda3\envs\m3u8\lib\_py_abc.py
+
+m _pydecimal                C:\Users\takanori\miniconda3\envs\m3u8\lib\_pydecimal.py
+
+m _queue                    C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_queue.pyd
+
+m _random                   
+
+m _sha1                     
+
+m _sha256                   
+
+m _sha3                     
+
+m _sha512                   
+
+m _signal                   
+
+m _socket                   C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_socket.pyd
+
+m _sre                      
+
+m _ssl                      C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_ssl.pyd
+
+m _stat                     
+
+m _string                   
+
+m _strptime                 C:\Users\takanori\miniconda3\envs\m3u8\lib\_strptime.py
+
+m _struct                   
+
+m _testcapi                 C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_testcapi.pyd
+
+m _thread                   
+
+m _threading_local          C:\Users\takanori\miniconda3\envs\m3u8\lib\_threading_local.py
+
+m _tkinter                  C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_tkinter.pyd
+
+m _tracemalloc              
+
+m _warnings                 
+
+m _weakref                  
+
+m _weakrefset               C:\Users\takanori\miniconda3\envs\m3u8\lib\_weakrefset.py
+
+m _winapi                   
+
+m abc                       C:\Users\takanori\miniconda3\envs\m3u8\lib\abc.py
+
+m argparse                  C:\Users\takanori\miniconda3\envs\m3u8\lib\argparse.py
+
+m array                     
+
+m ast                       C:\Users\takanori\miniconda3\envs\m3u8\lib\ast.py
+
+P asyncio                   C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\__init__.py
+
+m asyncio.__main__          C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\__main__.py
+
+m asyncio.base_events       C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\base_events.py
+
+m asyncio.base_futures      C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\base_futures.py
+
+m asyncio.base_subprocess   C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\base_subprocess.py
+
+m asyncio.base_tasks        C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\base_tasks.py
+
+m asyncio.constants         C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\constants.py
+
+m asyncio.coroutines        C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\coroutines.py
+
+m asyncio.events            C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\events.py
+
+m asyncio.exceptions        C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\exceptions.py
+
+m asyncio.format_helpers    C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\format_helpers.py
+
+m asyncio.futures           C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\futures.py
+
+m asyncio.locks             C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\locks.py
+
+m asyncio.log               C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\log.py
+
+m asyncio.proactor_events   C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\proactor_events.py
+
+m asyncio.protocols         C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\protocols.py
+
+m asyncio.queues            C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\queues.py
+
+m asyncio.runners           C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\runners.py
+
+m asyncio.selector_events   C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\selector_events.py
+
+m asyncio.sslproto          C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\sslproto.py
+
+m asyncio.staggered         C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\staggered.py
+
+m asyncio.streams           C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\streams.py
+
+m asyncio.subprocess        C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\subprocess.py
+
+m asyncio.tasks             C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\tasks.py
+
+m asyncio.transports        C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\transports.py
+
+m asyncio.trsock            C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\trsock.py
+
+m asyncio.unix_events       C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\unix_events.py
+
+m asyncio.windows_events    C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\windows_events.py
+
+m asyncio.windows_utils     C:\Users\takanori\miniconda3\envs\m3u8\lib\asyncio\windows_utils.py
+
+m atexit                    
+
+m base64                    C:\Users\takanori\miniconda3\envs\m3u8\lib\base64.py
+
+m bdb                       C:\Users\takanori\miniconda3\envs\m3u8\lib\bdb.py
+
+m binascii                  
+
+m bisect                    C:\Users\takanori\miniconda3\envs\m3u8\lib\bisect.py
+
+m builtins                  
+
+m bz2                       C:\Users\takanori\miniconda3\envs\m3u8\lib\bz2.py
+
+m calendar                  C:\Users\takanori\miniconda3\envs\m3u8\lib\calendar.py
+
+m cmd                       C:\Users\takanori\miniconda3\envs\m3u8\lib\cmd.py
+
+m code                      C:\Users\takanori\miniconda3\envs\m3u8\lib\code.py
+
+m codecs                    C:\Users\takanori\miniconda3\envs\m3u8\lib\codecs.py
+
+m codeop                    C:\Users\takanori\miniconda3\envs\m3u8\lib\codeop.py
+
+P collections               C:\Users\takanori\miniconda3\envs\m3u8\lib\collections\__init__.py
+
+m collections.abc           C:\Users\takanori\miniconda3\envs\m3u8\lib\collections\abc.py
+
+P concurrent                C:\Users\takanori\miniconda3\envs\m3u8\lib\concurrent\__init__.py
+
+P concurrent.futures        C:\Users\takanori\miniconda3\envs\m3u8\lib\concurrent\futures\__init__.py
+
+m concurrent.futures._base  C:\Users\takanori\miniconda3\envs\m3u8\lib\concurrent\futures\_base.py
+
+m concurrent.futures.process C:\Users\takanori\miniconda3\envs\m3u8\lib\concurrent\futures\process.py
+
+m concurrent.futures.thread C:\Users\takanori\miniconda3\envs\m3u8\lib\concurrent\futures\thread.py
+
+m configparser              C:\Users\takanori\miniconda3\envs\m3u8\lib\configparser.py
+
+m contextlib                C:\Users\takanori\miniconda3\envs\m3u8\lib\contextlib.py
+
+m contextvars               C:\Users\takanori\miniconda3\envs\m3u8\lib\contextvars.py
+
+m copy                      C:\Users\takanori\miniconda3\envs\m3u8\lib\copy.py
+
+m copyreg                   C:\Users\takanori\miniconda3\envs\m3u8\lib\copyreg.py
+
+m csv                       C:\Users\takanori\miniconda3\envs\m3u8\lib\csv.py
+
+P ctypes                    C:\Users\takanori\miniconda3\envs\m3u8\lib\ctypes\__init__.py
+
+m ctypes._aix               C:\Users\takanori\miniconda3\envs\m3u8\lib\ctypes\_aix.py
+
+m ctypes._endian            C:\Users\takanori\miniconda3\envs\m3u8\lib\ctypes\_endian.py
+
+m ctypes.util               C:\Users\takanori\miniconda3\envs\m3u8\lib\ctypes\util.py
+
+m ctypes.wintypes           C:\Users\takanori\miniconda3\envs\m3u8\lib\ctypes\wintypes.py
+
+m datetime                  C:\Users\takanori\miniconda3\envs\m3u8\lib\datetime.py
+
+m decimal                   C:\Users\takanori\miniconda3\envs\m3u8\lib\decimal.py
+
+m difflib                   C:\Users\takanori\miniconda3\envs\m3u8\lib\difflib.py
+
+m dis                       C:\Users\takanori\miniconda3\envs\m3u8\lib\dis.py
+
+P distutils                 C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\__init__.py
+
+m distutils.ccompiler       C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\ccompiler.py
+
+m distutils.debug           C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\debug.py
+
+m distutils.dep_util        C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\dep_util.py
+
+m distutils.dir_util        C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\dir_util.py
+
+m distutils.errors          C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\errors.py
+
+m distutils.fancy_getopt    C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\fancy_getopt.py
+
+m distutils.file_util       C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\file_util.py
+
+m distutils.filelist        C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\filelist.py
+
+m distutils.log             C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\log.py
+
+m distutils.spawn           C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\spawn.py
+
+m distutils.sysconfig       C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\sysconfig.py
+
+m distutils.text_file       C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\text_file.py
+
+m distutils.util            C:\Users\takanori\miniconda3\envs\m3u8\lib\distutils\util.py
+
+m doctest                   C:\Users\takanori\miniconda3\envs\m3u8\lib\doctest.py
+
+P email                     C:\Users\takanori\miniconda3\envs\m3u8\lib\email\__init__.py
+
+m email._encoded_words      C:\Users\takanori\miniconda3\envs\m3u8\lib\email\_encoded_words.py
+
+m email._header_value_parser C:\Users\takanori\miniconda3\envs\m3u8\lib\email\_header_value_parser.py
+
+m email._parseaddr          C:\Users\takanori\miniconda3\envs\m3u8\lib\email\_parseaddr.py
+
+m email._policybase         C:\Users\takanori\miniconda3\envs\m3u8\lib\email\_policybase.py
+
+m email.base64mime          C:\Users\takanori\miniconda3\envs\m3u8\lib\email\base64mime.py
+
+m email.charset             C:\Users\takanori\miniconda3\envs\m3u8\lib\email\charset.py
+
+m email.contentmanager      C:\Users\takanori\miniconda3\envs\m3u8\lib\email\contentmanager.py
+
+m email.encoders            C:\Users\takanori\miniconda3\envs\m3u8\lib\email\encoders.py
+
+m email.errors              C:\Users\takanori\miniconda3\envs\m3u8\lib\email\errors.py
+
+m email.feedparser          C:\Users\takanori\miniconda3\envs\m3u8\lib\email\feedparser.py
+
+m email.generator           C:\Users\takanori\miniconda3\envs\m3u8\lib\email\generator.py
+
+m email.header              C:\Users\takanori\miniconda3\envs\m3u8\lib\email\header.py
+
+m email.headerregistry      C:\Users\takanori\miniconda3\envs\m3u8\lib\email\headerregistry.py
+
+m email.iterators           C:\Users\takanori\miniconda3\envs\m3u8\lib\email\iterators.py
+
+m email.message             C:\Users\takanori\miniconda3\envs\m3u8\lib\email\message.py
+
+m email.parser              C:\Users\takanori\miniconda3\envs\m3u8\lib\email\parser.py
+
+m email.policy              C:\Users\takanori\miniconda3\envs\m3u8\lib\email\policy.py
+
+m email.quoprimime          C:\Users\takanori\miniconda3\envs\m3u8\lib\email\quoprimime.py
+
+m email.utils               C:\Users\takanori\miniconda3\envs\m3u8\lib\email\utils.py
+
+P encodings                 C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\__init__.py
+
+m encodings.aliases         C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\aliases.py
+
+m encodings.ascii           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\ascii.py
+
+m encodings.base64_codec    C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\base64_codec.py
+
+m encodings.big5            C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\big5.py
+
+m encodings.big5hkscs       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\big5hkscs.py
+
+m encodings.bz2_codec       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\bz2_codec.py
+
+m encodings.charmap         C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\charmap.py
+
+m encodings.cp037           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp037.py
+
+m encodings.cp1006          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp1006.py
+
+m encodings.cp1026          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp1026.py
+
+m encodings.cp1125          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp1125.py
+
+m encodings.cp1140          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp1140.py
+
+m encodings.cp1250          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp1250.py
+
+m encodings.cp1251          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp1251.py
+
+m encodings.cp1252          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp1252.py
+
+m encodings.cp1253          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp1253.py
+
+m encodings.cp1254          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp1254.py
+
+m encodings.cp1255          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp1255.py
+
+m encodings.cp1256          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp1256.py
+
+m encodings.cp1257          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp1257.py
+
+m encodings.cp1258          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp1258.py
+
+m encodings.cp273           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp273.py
+
+m encodings.cp424           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp424.py
+
+m encodings.cp437           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp437.py
+
+m encodings.cp500           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp500.py
+
+m encodings.cp720           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp720.py
+
+m encodings.cp737           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp737.py
+
+m encodings.cp775           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp775.py
+
+m encodings.cp850           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp850.py
+
+m encodings.cp852           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp852.py
+
+m encodings.cp855           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp855.py
+
+m encodings.cp856           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp856.py
+
+m encodings.cp857           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp857.py
+
+m encodings.cp858           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp858.py
+
+m encodings.cp860           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp860.py
+
+m encodings.cp861           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp861.py
+
+m encodings.cp862           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp862.py
+
+m encodings.cp863           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp863.py
+
+m encodings.cp864           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp864.py
+
+m encodings.cp865           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp865.py
+
+m encodings.cp866           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp866.py
+
+m encodings.cp869           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp869.py
+
+m encodings.cp874           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp874.py
+
+m encodings.cp875           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp875.py
+
+m encodings.cp932           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp932.py
+
+m encodings.cp949           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp949.py
+
+m encodings.cp950           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\cp950.py
+
+m encodings.euc_jis_2004    C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\euc_jis_2004.py
+
+m encodings.euc_jisx0213    C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\euc_jisx0213.py
+
+m encodings.euc_jp          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\euc_jp.py
+
+m encodings.euc_kr          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\euc_kr.py
+
+m encodings.gb18030         C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\gb18030.py
+
+m encodings.gb2312          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\gb2312.py
+
+m encodings.gbk             C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\gbk.py
+
+m encodings.hex_codec       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\hex_codec.py
+
+m encodings.hp_roman8       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\hp_roman8.py
+
+m encodings.hz              C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\hz.py
+
+m encodings.idna            C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\idna.py
+
+m encodings.iso2022_jp      C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso2022_jp.py
+
+m encodings.iso2022_jp_1    C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso2022_jp_1.py
+
+m encodings.iso2022_jp_2    C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso2022_jp_2.py
+
+m encodings.iso2022_jp_2004 C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso2022_jp_2004.py
+
+m encodings.iso2022_jp_3    C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso2022_jp_3.py
+
+m encodings.iso2022_jp_ext  C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso2022_jp_ext.py
+
+m encodings.iso2022_kr      C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso2022_kr.py
+
+m encodings.iso8859_1       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_1.py
+
+m encodings.iso8859_10      C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_10.py
+
+m encodings.iso8859_11      C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_11.py
+
+m encodings.iso8859_13      C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_13.py
+
+m encodings.iso8859_14      C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_14.py
+
+m encodings.iso8859_15      C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_15.py
+
+m encodings.iso8859_16      C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_16.py
+
+m encodings.iso8859_2       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_2.py
+
+m encodings.iso8859_3       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_3.py
+
+m encodings.iso8859_4       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_4.py
+
+m encodings.iso8859_5       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_5.py
+
+m encodings.iso8859_6       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_6.py
+
+m encodings.iso8859_7       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_7.py
+
+m encodings.iso8859_8       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_8.py
+
+m encodings.iso8859_9       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\iso8859_9.py
+
+m encodings.johab           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\johab.py
+
+m encodings.koi8_r          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\koi8_r.py
+
+m encodings.koi8_t          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\koi8_t.py
+
+m encodings.koi8_u          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\koi8_u.py
+
+m encodings.kz1048          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\kz1048.py
+
+m encodings.latin_1         C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\latin_1.py
+
+m encodings.mac_arabic      C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\mac_arabic.py
+
+m encodings.mac_centeuro    C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\mac_centeuro.py
+
+m encodings.mac_croatian    C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\mac_croatian.py
+
+m encodings.mac_cyrillic    C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\mac_cyrillic.py
+
+m encodings.mac_farsi       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\mac_farsi.py
+
+m encodings.mac_greek       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\mac_greek.py
+
+m encodings.mac_iceland     C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\mac_iceland.py
+
+m encodings.mac_latin2      C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\mac_latin2.py
+
+m encodings.mac_roman       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\mac_roman.py
+
+m encodings.mac_romanian    C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\mac_romanian.py
+
+m encodings.mac_turkish     C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\mac_turkish.py
+
+m encodings.mbcs            C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\mbcs.py
+
+m encodings.oem             C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\oem.py
+
+m encodings.palmos          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\palmos.py
+
+m encodings.ptcp154         C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\ptcp154.py
+
+m encodings.punycode        C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\punycode.py
+
+m encodings.quopri_codec    C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\quopri_codec.py
+
+m encodings.raw_unicode_escape C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\raw_unicode_escape.py
+
+m encodings.rot_13          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\rot_13.py
+
+m encodings.shift_jis       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\shift_jis.py
+
+m encodings.shift_jis_2004  C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\shift_jis_2004.py
+
+m encodings.shift_jisx0213  C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\shift_jisx0213.py
+
+m encodings.tis_620         C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\tis_620.py
+
+m encodings.undefined       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\undefined.py
+
+m encodings.unicode_escape  C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\unicode_escape.py
+
+m encodings.utf_16          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\utf_16.py
+
+m encodings.utf_16_be       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\utf_16_be.py
+
+m encodings.utf_16_le       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\utf_16_le.py
+
+m encodings.utf_32          C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\utf_32.py
+
+m encodings.utf_32_be       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\utf_32_be.py
+
+m encodings.utf_32_le       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\utf_32_le.py
+
+m encodings.utf_7           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\utf_7.py
+
+m encodings.utf_8           C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\utf_8.py
+
+m encodings.utf_8_sig       C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\utf_8_sig.py
+
+m encodings.uu_codec        C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\uu_codec.py
+
+m encodings.zlib_codec      C:\Users\takanori\miniconda3\envs\m3u8\lib\encodings\zlib_codec.py
+
+m enum                      C:\Users\takanori\miniconda3\envs\m3u8\lib\enum.py
+
+m errno                     
+
+m faulthandler              
+
+m fnmatch                   C:\Users\takanori\miniconda3\envs\m3u8\lib\fnmatch.py
+
+m ftplib                    C:\Users\takanori\miniconda3\envs\m3u8\lib\ftplib.py
+
+m functools                 C:\Users\takanori\miniconda3\envs\m3u8\lib\functools.py
+
+m gc                        
+
+m genericpath               C:\Users\takanori\miniconda3\envs\m3u8\lib\genericpath.py
+
+m getopt                    C:\Users\takanori\miniconda3\envs\m3u8\lib\getopt.py
+
+m getpass                   C:\Users\takanori\miniconda3\envs\m3u8\lib\getpass.py
+
+m gettext                   C:\Users\takanori\miniconda3\envs\m3u8\lib\gettext.py
+
+m glob                      C:\Users\takanori\miniconda3\envs\m3u8\lib\glob.py
+
+m gzip                      C:\Users\takanori\miniconda3\envs\m3u8\lib\gzip.py
+
+m hashlib                   C:\Users\takanori\miniconda3\envs\m3u8\lib\hashlib.py
+
+m heapq                     C:\Users\takanori\miniconda3\envs\m3u8\lib\heapq.py
+
+m hmac                      C:\Users\takanori\miniconda3\envs\m3u8\lib\hmac.py
+
+P html                      C:\Users\takanori\miniconda3\envs\m3u8\lib\html\__init__.py
+
+m html.entities             C:\Users\takanori\miniconda3\envs\m3u8\lib\html\entities.py
+
+P http                      C:\Users\takanori\miniconda3\envs\m3u8\lib\http\__init__.py
+
+m http.client               C:\Users\takanori\miniconda3\envs\m3u8\lib\http\client.py
+
+m http.cookiejar            C:\Users\takanori\miniconda3\envs\m3u8\lib\http\cookiejar.py
+
+m http.server               C:\Users\takanori\miniconda3\envs\m3u8\lib\http\server.py
+
+P importlib                 C:\Users\takanori\miniconda3\envs\m3u8\lib\importlib\__init__.py
+
+m importlib._bootstrap      C:\Users\takanori\miniconda3\envs\m3u8\lib\importlib\_bootstrap.py
+
+m importlib._bootstrap_external C:\Users\takanori\miniconda3\envs\m3u8\lib\importlib\_bootstrap_external.py
+
+m importlib.abc             C:\Users\takanori\miniconda3\envs\m3u8\lib\importlib\abc.py
+
+m importlib.machinery       C:\Users\takanori\miniconda3\envs\m3u8\lib\importlib\machinery.py
+
+m importlib.metadata        C:\Users\takanori\miniconda3\envs\m3u8\lib\importlib\metadata.py
+
+m importlib.util            C:\Users\takanori\miniconda3\envs\m3u8\lib\importlib\util.py
+
+m inspect                   C:\Users\takanori\miniconda3\envs\m3u8\lib\inspect.py
+
+m io                        C:\Users\takanori\miniconda3\envs\m3u8\lib\io.py
+
+m itertools                 
+
+m keyword                   C:\Users\takanori\miniconda3\envs\m3u8\lib\keyword.py
+
+P lib2to3                   C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\__init__.py
+
+m lib2to3.btm_matcher       C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\btm_matcher.py
+
+m lib2to3.btm_utils         C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\btm_utils.py
+
+m lib2to3.fixer_util        C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\fixer_util.py
+
+m lib2to3.patcomp           C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\patcomp.py
+
+P lib2to3.pgen2             C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\pgen2\__init__.py
+
+m lib2to3.pgen2.driver      C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\pgen2\driver.py
+
+m lib2to3.pgen2.grammar     C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\pgen2\grammar.py
+
+m lib2to3.pgen2.literals    C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\pgen2\literals.py
+
+m lib2to3.pgen2.parse       C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\pgen2\parse.py
+
+m lib2to3.pgen2.pgen        C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\pgen2\pgen.py
+
+m lib2to3.pgen2.token       C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\pgen2\token.py
+
+m lib2to3.pgen2.tokenize    C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\pgen2\tokenize.py
+
+m lib2to3.pygram            C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\pygram.py
+
+m lib2to3.pytree            C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\pytree.py
+
+m lib2to3.refactor          C:\Users\takanori\miniconda3\envs\m3u8\lib\lib2to3\refactor.py
+
+m linecache                 C:\Users\takanori\miniconda3\envs\m3u8\lib\linecache.py
+
+m locale                    C:\Users\takanori\miniconda3\envs\m3u8\lib\locale.py
+
+P logging                   C:\Users\takanori\miniconda3\envs\m3u8\lib\logging\__init__.py
+
+m logging.handlers          C:\Users\takanori\miniconda3\envs\m3u8\lib\logging\handlers.py
+
+m lzma                      C:\Users\takanori\miniconda3\envs\m3u8\lib\lzma.py
+
+m main__init__              C:\Users\takanori\miniconda3\envs\m3u8\lib\site-packages\cx_Freeze\initscripts\Console.py
+
+m main__main__              main.py
+
+m marshal                   
+
+m math                      
+
+m mimetypes                 C:\Users\takanori\miniconda3\envs\m3u8\lib\mimetypes.py
+
+m mmap                      
+
+m msvcrt                    
+
+P multiprocessing           C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\__init__.py
+
+m multiprocessing.connection C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\connection.py
+
+m multiprocessing.context   C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\context.py
+
+P multiprocessing.dummy     C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\dummy\__init__.py
+
+m multiprocessing.dummy.connection C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\dummy\connection.py
+
+m multiprocessing.forkserver C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\forkserver.py
+
+m multiprocessing.heap      C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\heap.py
+
+m multiprocessing.managers  C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\managers.py
+
+m multiprocessing.pool      C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\pool.py
+
+m multiprocessing.popen_fork C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\popen_fork.py
+
+m multiprocessing.popen_forkserver C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\popen_forkserver.py
+
+m multiprocessing.popen_spawn_posix C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\popen_spawn_posix.py
+
+m multiprocessing.popen_spawn_win32 C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\popen_spawn_win32.py
+
+m multiprocessing.process   C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\process.py
+
+m multiprocessing.queues    C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\queues.py
+
+m multiprocessing.reduction C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\reduction.py
+
+m multiprocessing.resource_sharer C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\resource_sharer.py
+
+m multiprocessing.resource_tracker C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\resource_tracker.py
+
+m multiprocessing.shared_memory C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\shared_memory.py
+
+m multiprocessing.sharedctypes C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\sharedctypes.py
+
+m multiprocessing.spawn     C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\spawn.py
+
+m multiprocessing.synchronize C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\synchronize.py
+
+m multiprocessing.util      C:\Users\takanori\miniconda3\envs\m3u8\lib\multiprocessing\util.py
+
+m netrc                     C:\Users\takanori\miniconda3\envs\m3u8\lib\netrc.py
+
+m nntplib                   C:\Users\takanori\miniconda3\envs\m3u8\lib\nntplib.py
+
+m nt                        
+
+m ntpath                    C:\Users\takanori\miniconda3\envs\m3u8\lib\ntpath.py
+
+m nturl2path                C:\Users\takanori\miniconda3\envs\m3u8\lib\nturl2path.py
+
+m numbers                   C:\Users\takanori\miniconda3\envs\m3u8\lib\numbers.py
+
+m opcode                    C:\Users\takanori\miniconda3\envs\m3u8\lib\opcode.py
+
+m operator                  C:\Users\takanori\miniconda3\envs\m3u8\lib\operator.py
+
+m optparse                  C:\Users\takanori\miniconda3\envs\m3u8\lib\optparse.py
+
+m os                        C:\Users\takanori\miniconda3\envs\m3u8\lib\os.py
+
+m pathlib                   C:\Users\takanori\miniconda3\envs\m3u8\lib\pathlib.py
+
+m pdb                       C:\Users\takanori\miniconda3\envs\m3u8\lib\pdb.py
+
+m pickle                    C:\Users\takanori\miniconda3\envs\m3u8\lib\pickle.py
+
+m pkgutil                   C:\Users\takanori\miniconda3\envs\m3u8\lib\pkgutil.py
+
+m platform                  C:\Users\takanori\miniconda3\envs\m3u8\lib\platform.py
+
+m plistlib                  C:\Users\takanori\miniconda3\envs\m3u8\lib\plistlib.py
+
+m posixpath                 C:\Users\takanori\miniconda3\envs\m3u8\lib\posixpath.py
+
+m pprint                    C:\Users\takanori\miniconda3\envs\m3u8\lib\pprint.py
+
+m py_compile                C:\Users\takanori\miniconda3\envs\m3u8\lib\py_compile.py
+
+m pydoc                     C:\Users\takanori\miniconda3\envs\m3u8\lib\pydoc.py
+
+P pydoc_data                C:\Users\takanori\miniconda3\envs\m3u8\lib\pydoc_data\__init__.py
+
+m pydoc_data.topics         C:\Users\takanori\miniconda3\envs\m3u8\lib\pydoc_data\topics.py
+
+m pyexpat                   C:\Users\takanori\miniconda3\envs\m3u8\DLLs\pyexpat.pyd
+
+m queue                     C:\Users\takanori\miniconda3\envs\m3u8\lib\queue.py
+
+m quopri                    C:\Users\takanori\miniconda3\envs\m3u8\lib\quopri.py
+
+m random                    C:\Users\takanori\miniconda3\envs\m3u8\lib\random.py
+
+m re                        C:\Users\takanori\miniconda3\envs\m3u8\lib\re.py
+
+m reprlib                   C:\Users\takanori\miniconda3\envs\m3u8\lib\reprlib.py
+
+m runpy                     C:\Users\takanori\miniconda3\envs\m3u8\lib\runpy.py
+
+m secrets                   C:\Users\takanori\miniconda3\envs\m3u8\lib\secrets.py
+
+m select                    C:\Users\takanori\miniconda3\envs\m3u8\DLLs\select.pyd
+
+m selectors                 C:\Users\takanori\miniconda3\envs\m3u8\lib\selectors.py
+
+m shlex                     C:\Users\takanori\miniconda3\envs\m3u8\lib\shlex.py
+
+m shutil                    C:\Users\takanori\miniconda3\envs\m3u8\lib\shutil.py
+
+m signal                    C:\Users\takanori\miniconda3\envs\m3u8\lib\signal.py
+
+m smtplib                   C:\Users\takanori\miniconda3\envs\m3u8\lib\smtplib.py
+
+m socket                    C:\Users\takanori\miniconda3\envs\m3u8\lib\socket.py
+
+m socketserver              C:\Users\takanori\miniconda3\envs\m3u8\lib\socketserver.py
+
+m sre_compile               C:\Users\takanori\miniconda3\envs\m3u8\lib\sre_compile.py
+
+m sre_constants             C:\Users\takanori\miniconda3\envs\m3u8\lib\sre_constants.py
+
+m sre_parse                 C:\Users\takanori\miniconda3\envs\m3u8\lib\sre_parse.py
+
+m ssl                       C:\Users\takanori\miniconda3\envs\m3u8\lib\ssl.py
+
+m stat                      C:\Users\takanori\miniconda3\envs\m3u8\lib\stat.py
+
+m string                    C:\Users\takanori\miniconda3\envs\m3u8\lib\string.py
+
+m stringprep                C:\Users\takanori\miniconda3\envs\m3u8\lib\stringprep.py
+
+m struct                    C:\Users\takanori\miniconda3\envs\m3u8\lib\struct.py
+
+m subprocess                C:\Users\takanori\miniconda3\envs\m3u8\lib\subprocess.py
+
+m sys                       
+
+m sysconfig                 C:\Users\takanori\miniconda3\envs\m3u8\lib\sysconfig.py
+
+m tarfile                   C:\Users\takanori\miniconda3\envs\m3u8\lib\tarfile.py
+
+m tempfile                  C:\Users\takanori\miniconda3\envs\m3u8\lib\tempfile.py
+
+P test                      C:\Users\takanori\miniconda3\envs\m3u8\lib\test\__init__.py
+
+P test.support              C:\Users\takanori\miniconda3\envs\m3u8\lib\test\support\__init__.py
+
+m test.support.testresult   C:\Users\takanori\miniconda3\envs\m3u8\lib\test\support\testresult.py
+
+m textwrap                  C:\Users\takanori\miniconda3\envs\m3u8\lib\textwrap.py
+
+m threading                 C:\Users\takanori\miniconda3\envs\m3u8\lib\threading.py
+
+m time                      
+
+P tkinter                   C:\Users\takanori\miniconda3\envs\m3u8\lib\tkinter\__init__.py
+
+m tkinter.constants         C:\Users\takanori\miniconda3\envs\m3u8\lib\tkinter\constants.py
+
+m token                     C:\Users\takanori\miniconda3\envs\m3u8\lib\token.py
+
+m tokenize                  C:\Users\takanori\miniconda3\envs\m3u8\lib\tokenize.py
+
+m traceback                 C:\Users\takanori\miniconda3\envs\m3u8\lib\traceback.py
+
+m tracemalloc               C:\Users\takanori\miniconda3\envs\m3u8\lib\tracemalloc.py
+
+m tty                       C:\Users\takanori\miniconda3\envs\m3u8\lib\tty.py
+
+m types                     C:\Users\takanori\miniconda3\envs\m3u8\lib\types.py
+
+m typing                    C:\Users\takanori\miniconda3\envs\m3u8\lib\typing.py
+
+m unicodedata               C:\Users\takanori\miniconda3\envs\m3u8\DLLs\unicodedata.pyd
+
+P unittest                  C:\Users\takanori\miniconda3\envs\m3u8\lib\unittest\__init__.py
+
+m unittest.async_case       C:\Users\takanori\miniconda3\envs\m3u8\lib\unittest\async_case.py
+
+m unittest.case             C:\Users\takanori\miniconda3\envs\m3u8\lib\unittest\case.py
+
+m unittest.loader           C:\Users\takanori\miniconda3\envs\m3u8\lib\unittest\loader.py
+
+m unittest.main             C:\Users\takanori\miniconda3\envs\m3u8\lib\unittest\main.py
+
+m unittest.result           C:\Users\takanori\miniconda3\envs\m3u8\lib\unittest\result.py
+
+m unittest.runner           C:\Users\takanori\miniconda3\envs\m3u8\lib\unittest\runner.py
+
+m unittest.signals          C:\Users\takanori\miniconda3\envs\m3u8\lib\unittest\signals.py
+
+m unittest.suite            C:\Users\takanori\miniconda3\envs\m3u8\lib\unittest\suite.py
+
+m unittest.util             C:\Users\takanori\miniconda3\envs\m3u8\lib\unittest\util.py
+
+P urllib                    C:\Users\takanori\miniconda3\envs\m3u8\lib\urllib\__init__.py
+
+m urllib.error              C:\Users\takanori\miniconda3\envs\m3u8\lib\urllib\error.py
+
+m urllib.parse              C:\Users\takanori\miniconda3\envs\m3u8\lib\urllib\parse.py
+
+m urllib.request            C:\Users\takanori\miniconda3\envs\m3u8\lib\urllib\request.py
+
+m urllib.response           C:\Users\takanori\miniconda3\envs\m3u8\lib\urllib\response.py
+
+m uu                        C:\Users\takanori\miniconda3\envs\m3u8\lib\uu.py
+
+m warnings                  C:\Users\takanori\miniconda3\envs\m3u8\lib\warnings.py
+
+m weakref                   C:\Users\takanori\miniconda3\envs\m3u8\lib\weakref.py
+
+m webbrowser                C:\Users\takanori\miniconda3\envs\m3u8\lib\webbrowser.py
+
+m winreg                    
+
+P xml                       C:\Users\takanori\miniconda3\envs\m3u8\lib\xml\__init__.py
+
+P xml.etree                 C:\Users\takanori\miniconda3\envs\m3u8\lib\xml\etree\__init__.py
+
+m xml.etree.ElementPath     C:\Users\takanori\miniconda3\envs\m3u8\lib\xml\etree\ElementPath.py
+
+m xml.etree.ElementTree     C:\Users\takanori\miniconda3\envs\m3u8\lib\xml\etree\ElementTree.py
+
+P xml.parsers               C:\Users\takanori\miniconda3\envs\m3u8\lib\xml\parsers\__init__.py
+
+m xml.parsers.expat         C:\Users\takanori\miniconda3\envs\m3u8\lib\xml\parsers\expat.py
+
+P xmlrpc                    C:\Users\takanori\miniconda3\envs\m3u8\lib\xmlrpc\__init__.py
+
+m xmlrpc.client             C:\Users\takanori\miniconda3\envs\m3u8\lib\xmlrpc\client.py
+
+m zipfile                   C:\Users\takanori\miniconda3\envs\m3u8\lib\zipfile.py
+
+m zipimport                 C:\Users\takanori\miniconda3\envs\m3u8\lib\zipimport.py
+
+m zlib                      
+
+Missing modules:
+? __main__ imported from bdb, pdb
+? _frozen_importlib imported from importlib, importlib.abc, zipimport
+? _frozen_importlib_external imported from importlib, importlib._bootstrap, importlib.abc, zipimport
+? _posixshmem imported from multiprocessing.resource_tracker, multiprocessing.shared_memory
+? _posixsubprocess imported from multiprocessing.util, subprocess
+? _scproxy imported from urllib.request
+? _winreg imported from platform
+? ctypes.macholib.dyld imported from ctypes.util
+? grp imported from pathlib, shutil, tarfile
+? java.lang imported from platform
+? multiprocessing.AuthenticationError imported from multiprocessing.connection
+? multiprocessing.BufferTooShort imported from multiprocessing.connection
+? multiprocessing.TimeoutError imported from multiprocessing.pool
+? multiprocessing.get_context imported from multiprocessing.managers, multiprocessing.pool, multiprocessing.sharedctypes
+? multiprocessing.get_start_method imported from multiprocessing.spawn
+? multiprocessing.set_start_method imported from multiprocessing.spawn
+? org.python.core imported from copy, pickle
+? os.path imported from distutils.file_util, os, pkgutil, py_compile, tracemalloc, unittest, unittest.util
+? posix imported from importlib._bootstrap_external, os, shutil
+? pwd imported from distutils.util, getpass, http.server, netrc, pathlib, posixpath, shutil, tarfile, webbrowser
+? resource imported from test.support
+? sysconfig imported from pydoc, test.support
+? termios imported from getpass, tty
+? vms_lib imported from platform
+? win32evtlog imported from logging.handlers
+? win32evtlogutil imported from logging.handlers
+This is not necessarily a problem - the modules may not be needed on this platform.
+
+creating directory build\exe.win-amd64-3.8\lib
+Copying data from package asyncio...
+Copying data from package collections...
+Copying data from package concurrent...
+Copying data from package ctypes...
+Copying data from package distutils...
+Copying data from package email...
+Copying data from package encodings...
+Copying data from package html...
+Copying data from package http...
+Copying data from package importlib...
+Copying data from package lib2to3...
+Copying data from package logging...
+Copying data from package multiprocessing...
+Copying data from package pydoc_data...
+Copying data from package test...
+Copying data from package tkinter...
+Copying data from package unittest...
+Copying data from package urllib...
+Copying data from package xml...
+Copying data from package xmlrpc...
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_asyncio.pyd -> build\exe.win-amd64-3.8\lib\_asyncio.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\python38.dll -> build\exe.win-amd64-3.8\lib\python38.dll
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_bz2.pyd -> build\exe.win-amd64-3.8\lib\_bz2.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_ctypes.pyd -> build\exe.win-amd64-3.8\lib\_ctypes.pyd
+copying c:\users\takanori\miniconda3\envs\m3u8\dlls\libffi-7.dll -> build\exe.win-amd64-3.8\lib\libffi-7.dll
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_decimal.pyd -> build\exe.win-amd64-3.8\lib\_decimal.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_elementtree.pyd -> build\exe.win-amd64-3.8\lib\_elementtree.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_hashlib.pyd -> build\exe.win-amd64-3.8\lib\_hashlib.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\Library\bin\libcrypto-1_1-x64.dll -> build\exe.win-amd64-3.8\lib\libcrypto-1_1-x64.dll
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_lzma.pyd -> build\exe.win-amd64-3.8\lib\_lzma.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_multiprocessing.pyd -> build\exe.win-amd64-3.8\lib\_multiprocessing.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_overlapped.pyd -> build\exe.win-amd64-3.8\lib\_overlapped.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_queue.pyd -> build\exe.win-amd64-3.8\lib\_queue.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_socket.pyd -> build\exe.win-amd64-3.8\lib\_socket.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_ssl.pyd -> build\exe.win-amd64-3.8\lib\_ssl.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\Library\bin\libssl-1_1-x64.dll -> build\exe.win-amd64-3.8\lib\libssl-1_1-x64.dll
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_testcapi.pyd -> build\exe.win-amd64-3.8\lib\_testcapi.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\_tkinter.pyd -> build\exe.win-amd64-3.8\lib\_tkinter.pyd
+copying c:\users\takanori\miniconda3\envs\m3u8\dlls\tcl86t.dll -> build\exe.win-amd64-3.8\lib\tcl86t.dll
+copying c:\users\takanori\miniconda3\envs\m3u8\dlls\tk86t.dll -> build\exe.win-amd64-3.8\lib\tk86t.dll
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\pyexpat.pyd -> build\exe.win-amd64-3.8\lib\pyexpat.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\select.pyd -> build\exe.win-amd64-3.8\lib\select.pyd
+copying C:\Users\takanori\miniconda3\envs\m3u8\DLLs\unicodedata.pyd -> build\exe.win-amd64-3.8\lib\unicodedata.pyd
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\auto.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\auto.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\clock.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\clock.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\history.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\history.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\init.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\init.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\package.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\package.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\parray.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\parray.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\safe.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\safe.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tclIndex -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tclIndex
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tm.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tm.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\word.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\word.tcl
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\ascii.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\ascii.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\big5.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\big5.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp1250.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp1250.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp1251.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp1251.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp1252.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp1252.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp1253.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp1253.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp1254.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp1254.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp1255.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp1255.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp1256.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp1256.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp1257.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp1257.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp1258.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp1258.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp437.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp437.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp737.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp737.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp775.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp775.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp850.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp850.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp852.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp852.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp855.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp855.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp857.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp857.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp860.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp860.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp861.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp861.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp862.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp862.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp863.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp863.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp864.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp864.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp865.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp865.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp866.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp866.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp869.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp869.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp874.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp874.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp932.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp932.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp936.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp936.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp949.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp949.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\cp950.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\cp950.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\dingbats.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\dingbats.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\ebcdic.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\ebcdic.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\euc-cn.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\euc-cn.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\euc-jp.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\euc-jp.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\euc-kr.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\euc-kr.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\gb12345.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\gb12345.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\gb1988.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\gb1988.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\gb2312-raw.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\gb2312-raw.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\gb2312.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\gb2312.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso2022-jp.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso2022-jp.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso2022-kr.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso2022-kr.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso2022.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso2022.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-1.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-1.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-10.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-10.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-13.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-13.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-14.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-14.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-15.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-15.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-16.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-16.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-2.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-2.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-3.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-3.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-4.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-4.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-5.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-5.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-6.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-6.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-7.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-7.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-8.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-8.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\iso8859-9.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\iso8859-9.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\jis0201.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\jis0201.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\jis0208.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\jis0208.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\jis0212.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\jis0212.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\koi8-r.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\koi8-r.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\koi8-u.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\koi8-u.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\ksc5601.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\ksc5601.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\macCentEuro.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\macCentEuro.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\macCroatian.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\macCroatian.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\macCyrillic.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\macCyrillic.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\macDingbats.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\macDingbats.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\macGreek.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\macGreek.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\macIceland.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\macIceland.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\macJapan.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\macJapan.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\macRoman.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\macRoman.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\macRomania.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\macRomania.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\macThai.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\macThai.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\macTurkish.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\macTurkish.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\macUkraine.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\macUkraine.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\shiftjis.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\shiftjis.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\symbol.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\symbol.enc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\encoding\tis-620.enc -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\encoding\tis-620.enc
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\http1.0
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\http1.0\http.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\http1.0\http.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\http1.0\pkgIndex.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\http1.0\pkgIndex.tcl
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\af.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\af.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\af_za.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\af_za.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ar.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ar.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ar_in.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ar_in.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ar_jo.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ar_jo.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ar_lb.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ar_lb.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ar_sy.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ar_sy.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\be.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\be.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\bg.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\bg.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\bn.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\bn.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\bn_in.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\bn_in.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ca.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ca.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\cs.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\cs.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\da.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\da.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\de.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\de.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\de_at.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\de_at.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\de_be.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\de_be.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\el.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\el.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\en_au.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\en_au.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\en_be.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\en_be.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\en_bw.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\en_bw.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\en_ca.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\en_ca.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\en_gb.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\en_gb.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\en_hk.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\en_hk.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\en_ie.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\en_ie.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\en_in.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\en_in.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\en_nz.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\en_nz.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\en_ph.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\en_ph.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\en_sg.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\en_sg.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\en_za.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\en_za.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\en_zw.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\en_zw.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\eo.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\eo.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_ar.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_ar.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_bo.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_bo.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_cl.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_cl.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_co.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_co.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_cr.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_cr.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_do.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_do.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_ec.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_ec.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_gt.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_gt.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_hn.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_hn.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_mx.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_mx.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_ni.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_ni.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_pa.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_pa.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_pe.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_pe.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_pr.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_pr.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_py.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_py.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_sv.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_sv.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_uy.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_uy.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\es_ve.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\es_ve.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\et.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\et.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\eu.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\eu.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\eu_es.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\eu_es.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\fa.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\fa.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\fa_in.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\fa_in.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\fa_ir.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\fa_ir.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\fi.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\fi.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\fo.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\fo.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\fo_fo.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\fo_fo.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\fr.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\fr.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\fr_be.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\fr_be.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\fr_ca.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\fr_ca.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\fr_ch.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\fr_ch.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ga.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ga.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ga_ie.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ga_ie.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\gl.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\gl.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\gl_es.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\gl_es.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\gv.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\gv.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\gv_gb.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\gv_gb.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\he.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\he.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\hi.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\hi.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\hi_in.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\hi_in.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\hr.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\hr.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\hu.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\hu.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\id.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\id.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\id_id.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\id_id.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\is.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\is.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\it.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\it.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\it_ch.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\it_ch.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ja.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ja.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\kl.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\kl.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\kl_gl.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\kl_gl.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ko.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ko.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\kok.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\kok.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\kok_in.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\kok_in.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ko_kr.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ko_kr.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\kw.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\kw.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\kw_gb.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\kw_gb.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\lt.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\lt.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\lv.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\lv.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\mk.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\mk.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\mr.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\mr.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\mr_in.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\mr_in.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ms.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ms.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ms_my.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ms_my.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\mt.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\mt.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\nb.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\nb.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\nl.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\nl.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\nl_be.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\nl_be.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\nn.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\nn.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\pl.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\pl.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\pt.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\pt.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\pt_br.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\pt_br.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ro.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ro.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ru.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ru.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ru_ua.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ru_ua.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\sh.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\sh.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\sk.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\sk.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\sl.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\sl.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\sq.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\sq.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\sr.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\sr.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\sv.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\sv.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\sw.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\sw.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ta.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ta.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\ta_in.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\ta_in.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\te.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\te.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\te_in.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\te_in.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\th.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\th.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\tr.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\tr.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\uk.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\uk.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\vi.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\vi.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\zh.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\zh.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\zh_cn.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\zh_cn.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\zh_hk.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\zh_hk.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\zh_sg.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\zh_sg.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\msgs\zh_tw.msg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\msgs\zh_tw.msg
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\opt0.4
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\opt0.4\optparse.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\opt0.4\optparse.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\opt0.4\pkgIndex.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\opt0.4\pkgIndex.tcl
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\CET -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\CET
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\CST6CDT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\CST6CDT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Cuba -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Cuba
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\EET -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\EET
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Egypt -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Egypt
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Eire -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Eire
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\EST -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\EST
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\EST5EDT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\EST5EDT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\GB -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\GB
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\GB-Eire -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\GB-Eire
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\GMT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\GMT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\GMT+0 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\GMT+0
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\GMT-0 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\GMT-0
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\GMT0 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\GMT0
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Greenwich -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Greenwich
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Hongkong -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Hongkong
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\HST -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\HST
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Iceland -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Iceland
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Iran -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Iran
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Israel -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Israel
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Jamaica -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Jamaica
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Japan -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Japan
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Kwajalein -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Kwajalein
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Libya -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Libya
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\MET -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\MET
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\MST -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\MST
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\MST7MDT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\MST7MDT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Navajo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Navajo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\NZ -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\NZ
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\NZ-CHAT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\NZ-CHAT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Poland -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Poland
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Portugal -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Portugal
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\PRC -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\PRC
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\PST8PDT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\PST8PDT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\ROC -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\ROC
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\ROK -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\ROK
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Singapore -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Singapore
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Turkey -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Turkey
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\UCT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\UCT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Universal -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Universal
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\UTC -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\UTC
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\W-SU -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\W-SU
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\WET -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\WET
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Zulu -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Zulu
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Abidjan -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Abidjan
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Accra -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Accra
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Addis_Ababa -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Addis_Ababa
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Algiers -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Algiers
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Asmara -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Asmara
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Asmera -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Asmera
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Bamako -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Bamako
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Bangui -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Bangui
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Banjul -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Banjul
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Bissau -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Bissau
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Blantyre -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Blantyre
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Brazzaville -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Brazzaville
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Bujumbura -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Bujumbura
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Cairo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Cairo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Casablanca -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Casablanca
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Ceuta -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Ceuta
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Conakry -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Conakry
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Dakar -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Dakar
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Dar_es_Salaam -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Dar_es_Salaam
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Djibouti -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Djibouti
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Douala -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Douala
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\El_Aaiun -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\El_Aaiun
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Freetown -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Freetown
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Gaborone -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Gaborone
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Harare -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Harare
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Johannesburg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Johannesburg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Juba -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Juba
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Kampala -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Kampala
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Khartoum -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Khartoum
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Kigali -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Kigali
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Kinshasa -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Kinshasa
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Lagos -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Lagos
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Libreville -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Libreville
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Lome -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Lome
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Luanda -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Luanda
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Lubumbashi -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Lubumbashi
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Lusaka -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Lusaka
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Malabo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Malabo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Maputo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Maputo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Maseru -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Maseru
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Mbabane -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Mbabane
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Mogadishu -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Mogadishu
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Monrovia -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Monrovia
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Nairobi -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Nairobi
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Ndjamena -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Ndjamena
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Niamey -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Niamey
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Nouakchott -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Nouakchott
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Ouagadougou -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Ouagadougou
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Porto-Novo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Porto-Novo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Sao_Tome -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Sao_Tome
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Timbuktu -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Timbuktu
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Tripoli -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Tripoli
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Tunis -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Tunis
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Africa\Windhoek -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Africa\Windhoek
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Adak -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Adak
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Anchorage -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Anchorage
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Anguilla -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Anguilla
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Antigua -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Antigua
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Araguaina -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Araguaina
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Aruba -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Aruba
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Asuncion -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Asuncion
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Atikokan -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Atikokan
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Atka -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Atka
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Bahia -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Bahia
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Bahia_Banderas -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Bahia_Banderas
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Barbados -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Barbados
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Belem -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Belem
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Belize -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Belize
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Blanc-Sablon -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Blanc-Sablon
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Boa_Vista -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Boa_Vista
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Bogota -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Bogota
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Boise -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Boise
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Buenos_Aires -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Buenos_Aires
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Cambridge_Bay -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Cambridge_Bay
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Campo_Grande -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Campo_Grande
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Cancun -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Cancun
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Caracas -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Caracas
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Catamarca -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Catamarca
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Cayenne -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Cayenne
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Cayman -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Cayman
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Chicago -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Chicago
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Chihuahua -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Chihuahua
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Coral_Harbour -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Coral_Harbour
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Cordoba -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Cordoba
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Costa_Rica -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Costa_Rica
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Creston -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Creston
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Cuiaba -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Cuiaba
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Curacao -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Curacao
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Danmarkshavn -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Danmarkshavn
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Dawson -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Dawson
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Dawson_Creek -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Dawson_Creek
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Denver -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Denver
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Detroit -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Detroit
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Dominica -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Dominica
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Edmonton -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Edmonton
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Eirunepe -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Eirunepe
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\El_Salvador -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\El_Salvador
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Ensenada -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Ensenada
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Fortaleza -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Fortaleza
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Fort_Nelson -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Fort_Nelson
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Fort_Wayne -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Fort_Wayne
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Glace_Bay -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Glace_Bay
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Godthab -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Godthab
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Goose_Bay -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Goose_Bay
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Grand_Turk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Grand_Turk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Grenada -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Grenada
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Guadeloupe -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Guadeloupe
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Guatemala -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Guatemala
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Guayaquil -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Guayaquil
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Guyana -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Guyana
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Halifax -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Halifax
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Havana -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Havana
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Hermosillo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Hermosillo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Indianapolis -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Indianapolis
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Inuvik -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Inuvik
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Iqaluit -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Iqaluit
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Jamaica -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Jamaica
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Jujuy -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Jujuy
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Juneau -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Juneau
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Knox_IN -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Knox_IN
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Kralendijk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Kralendijk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\La_Paz -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\La_Paz
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Lima -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Lima
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Los_Angeles -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Los_Angeles
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Louisville -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Louisville
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Lower_Princes -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Lower_Princes
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Maceio -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Maceio
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Managua -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Managua
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Manaus -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Manaus
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Marigot -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Marigot
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Martinique -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Martinique
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Matamoros -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Matamoros
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Mazatlan -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Mazatlan
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Mendoza -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Mendoza
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Menominee -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Menominee
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Merida -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Merida
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Metlakatla -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Metlakatla
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Mexico_City -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Mexico_City
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Miquelon -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Miquelon
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Moncton -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Moncton
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Monterrey -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Monterrey
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Montevideo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Montevideo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Montreal -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Montreal
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Montserrat -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Montserrat
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Nassau -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Nassau
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\New_York -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\New_York
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Nipigon -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Nipigon
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Nome -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Nome
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Noronha -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Noronha
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Ojinaga -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Ojinaga
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Panama -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Panama
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Pangnirtung -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Pangnirtung
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Paramaribo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Paramaribo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Phoenix -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Phoenix
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Port-au-Prince -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Port-au-Prince
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Porto_Acre -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Porto_Acre
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Porto_Velho -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Porto_Velho
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Port_of_Spain -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Port_of_Spain
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Puerto_Rico -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Puerto_Rico
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Punta_Arenas -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Punta_Arenas
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Rainy_River -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Rainy_River
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Rankin_Inlet -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Rankin_Inlet
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Recife -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Recife
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Regina -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Regina
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Resolute -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Resolute
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Rio_Branco -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Rio_Branco
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Rosario -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Rosario
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Santarem -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Santarem
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Santa_Isabel -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Santa_Isabel
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Santiago -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Santiago
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Santo_Domingo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Santo_Domingo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Sao_Paulo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Sao_Paulo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Scoresbysund -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Scoresbysund
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Shiprock -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Shiprock
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Sitka -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Sitka
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\St_Barthelemy -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\St_Barthelemy
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\St_Johns -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\St_Johns
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\St_Kitts -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\St_Kitts
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\St_Lucia -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\St_Lucia
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\St_Thomas -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\St_Thomas
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\St_Vincent -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\St_Vincent
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Swift_Current -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Swift_Current
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Tegucigalpa -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Tegucigalpa
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Thule -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Thule
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Thunder_Bay -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Thunder_Bay
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Tijuana -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Tijuana
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Toronto -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Toronto
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Tortola -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Tortola
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Vancouver -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Vancouver
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Virgin -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Virgin
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Whitehorse -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Whitehorse
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Winnipeg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Winnipeg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Yakutat -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Yakutat
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Yellowknife -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Yellowknife
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Argentina\Buenos_Aires -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina\Buenos_Aires
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Argentina\Catamarca -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina\Catamarca
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Argentina\ComodRivadavia -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina\ComodRivadavia
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Argentina\Cordoba -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina\Cordoba
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Argentina\Jujuy -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina\Jujuy
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Argentina\La_Rioja -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina\La_Rioja
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Argentina\Mendoza -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina\Mendoza
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Argentina\Rio_Gallegos -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina\Rio_Gallegos
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Argentina\Salta -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina\Salta
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Argentina\San_Juan -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina\San_Juan
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Argentina\San_Luis -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina\San_Luis
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Argentina\Tucuman -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina\Tucuman
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Argentina\Ushuaia -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Argentina\Ushuaia
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Indiana
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Indiana\Indianapolis -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Indiana\Indianapolis
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Indiana\Knox -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Indiana\Knox
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Indiana\Marengo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Indiana\Marengo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Indiana\Petersburg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Indiana\Petersburg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Indiana\Tell_City -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Indiana\Tell_City
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Indiana\Vevay -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Indiana\Vevay
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Indiana\Vincennes -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Indiana\Vincennes
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Indiana\Winamac -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Indiana\Winamac
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Kentucky
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Kentucky\Louisville -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Kentucky\Louisville
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\Kentucky\Monticello -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\Kentucky\Monticello
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\North_Dakota
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\North_Dakota\Beulah -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\North_Dakota\Beulah
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\North_Dakota\Center -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\North_Dakota\Center
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\America\North_Dakota\New_Salem -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\America\North_Dakota\New_Salem
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Antarctica
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Antarctica\Casey -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Antarctica\Casey
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Antarctica\Davis -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Antarctica\Davis
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Antarctica\DumontDUrville -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Antarctica\DumontDUrville
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Antarctica\Macquarie -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Antarctica\Macquarie
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Antarctica\Mawson -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Antarctica\Mawson
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Antarctica\McMurdo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Antarctica\McMurdo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Antarctica\Palmer -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Antarctica\Palmer
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Antarctica\Rothera -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Antarctica\Rothera
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Antarctica\South_Pole -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Antarctica\South_Pole
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Antarctica\Syowa -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Antarctica\Syowa
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Antarctica\Troll -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Antarctica\Troll
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Antarctica\Vostok -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Antarctica\Vostok
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Arctic
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Arctic\Longyearbyen -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Arctic\Longyearbyen
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Aden -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Aden
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Almaty -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Almaty
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Amman -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Amman
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Anadyr -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Anadyr
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Aqtau -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Aqtau
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Aqtobe -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Aqtobe
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Ashgabat -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Ashgabat
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Ashkhabad -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Ashkhabad
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Atyrau -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Atyrau
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Baghdad -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Baghdad
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Bahrain -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Bahrain
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Baku -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Baku
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Bangkok -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Bangkok
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Barnaul -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Barnaul
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Beirut -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Beirut
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Bishkek -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Bishkek
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Brunei -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Brunei
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Calcutta -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Calcutta
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Chita -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Chita
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Choibalsan -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Choibalsan
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Chongqing -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Chongqing
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Chungking -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Chungking
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Colombo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Colombo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Dacca -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Dacca
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Damascus -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Damascus
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Dhaka -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Dhaka
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Dili -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Dili
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Dubai -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Dubai
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Dushanbe -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Dushanbe
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Famagusta -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Famagusta
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Gaza -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Gaza
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Harbin -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Harbin
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Hebron -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Hebron
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Hong_Kong -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Hong_Kong
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Hovd -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Hovd
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Ho_Chi_Minh -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Ho_Chi_Minh
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Irkutsk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Irkutsk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Istanbul -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Istanbul
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Jakarta -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Jakarta
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Jayapura -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Jayapura
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Jerusalem -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Jerusalem
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Kabul -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Kabul
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Kamchatka -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Kamchatka
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Karachi -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Karachi
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Kashgar -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Kashgar
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Kathmandu -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Kathmandu
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Katmandu -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Katmandu
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Khandyga -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Khandyga
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Kolkata -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Kolkata
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Krasnoyarsk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Krasnoyarsk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Kuala_Lumpur -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Kuala_Lumpur
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Kuching -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Kuching
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Kuwait -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Kuwait
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Macao -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Macao
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Macau -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Macau
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Magadan -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Magadan
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Makassar -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Makassar
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Manila -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Manila
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Muscat -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Muscat
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Nicosia -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Nicosia
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Novokuznetsk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Novokuznetsk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Novosibirsk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Novosibirsk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Omsk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Omsk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Oral -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Oral
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Phnom_Penh -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Phnom_Penh
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Pontianak -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Pontianak
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Pyongyang -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Pyongyang
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Qatar -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Qatar
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Qyzylorda -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Qyzylorda
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Rangoon -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Rangoon
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Riyadh -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Riyadh
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Saigon -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Saigon
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Sakhalin -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Sakhalin
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Samarkand -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Samarkand
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Seoul -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Seoul
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Shanghai -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Shanghai
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Singapore -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Singapore
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Srednekolymsk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Srednekolymsk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Taipei -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Taipei
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Tashkent -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Tashkent
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Tbilisi -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Tbilisi
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Tehran -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Tehran
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Tel_Aviv -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Tel_Aviv
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Thimbu -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Thimbu
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Thimphu -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Thimphu
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Tokyo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Tokyo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Tomsk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Tomsk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Ujung_Pandang -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Ujung_Pandang
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Ulaanbaatar -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Ulaanbaatar
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Ulan_Bator -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Ulan_Bator
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Urumqi -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Urumqi
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Ust-Nera -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Ust-Nera
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Vientiane -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Vientiane
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Vladivostok -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Vladivostok
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Yakutsk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Yakutsk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Yangon -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Yangon
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Yekaterinburg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Yekaterinburg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Asia\Yerevan -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Asia\Yerevan
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Atlantic
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Atlantic\Azores -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Atlantic\Azores
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Atlantic\Bermuda -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Atlantic\Bermuda
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Atlantic\Canary -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Atlantic\Canary
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Atlantic\Cape_Verde -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Atlantic\Cape_Verde
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Atlantic\Faeroe -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Atlantic\Faeroe
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Atlantic\Faroe -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Atlantic\Faroe
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Atlantic\Jan_Mayen -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Atlantic\Jan_Mayen
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Atlantic\Madeira -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Atlantic\Madeira
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Atlantic\Reykjavik -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Atlantic\Reykjavik
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Atlantic\South_Georgia -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Atlantic\South_Georgia
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Atlantic\Stanley -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Atlantic\Stanley
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Atlantic\St_Helena -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Atlantic\St_Helena
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\ACT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\ACT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Adelaide -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Adelaide
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Brisbane -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Brisbane
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Broken_Hill -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Broken_Hill
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Canberra -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Canberra
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Currie -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Currie
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Darwin -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Darwin
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Eucla -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Eucla
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Hobart -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Hobart
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\LHI -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\LHI
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Lindeman -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Lindeman
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Lord_Howe -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Lord_Howe
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Melbourne -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Melbourne
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\North -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\North
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\NSW -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\NSW
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Perth -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Perth
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Queensland -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Queensland
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\South -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\South
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Sydney -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Sydney
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Tasmania -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Tasmania
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Victoria -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Victoria
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\West -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\West
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Australia\Yancowinna -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Australia\Yancowinna
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Brazil
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Brazil\Acre -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Brazil\Acre
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Brazil\DeNoronha -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Brazil\DeNoronha
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Brazil\East -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Brazil\East
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Brazil\West -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Brazil\West
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Canada
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Canada\Atlantic -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Canada\Atlantic
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Canada\Central -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Canada\Central
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Canada\East-Saskatchewan -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Canada\East-Saskatchewan
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Canada\Eastern -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Canada\Eastern
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Canada\Mountain -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Canada\Mountain
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Canada\Newfoundland -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Canada\Newfoundland
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Canada\Pacific -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Canada\Pacific
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Canada\Saskatchewan -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Canada\Saskatchewan
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Canada\Yukon -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Canada\Yukon
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Chile
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Chile\Continental -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Chile\Continental
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Chile\EasterIsland -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Chile\EasterIsland
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT+0 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT+0
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT+1 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT+1
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT+10 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT+10
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT+11 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT+11
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT+12 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT+12
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT+2 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT+2
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT+3 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT+3
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT+4 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT+4
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT+5 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT+5
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT+6 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT+6
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT+7 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT+7
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT+8 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT+8
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT+9 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT+9
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-0 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-0
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-1 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-1
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-10 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-10
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-11 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-11
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-12 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-12
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-13 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-13
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-14 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-14
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-2 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-2
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-3 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-3
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-4 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-4
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-5 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-5
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-6 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-6
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-7 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-7
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-8 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-8
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT-9 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT-9
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\GMT0 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\GMT0
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\Greenwich -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\Greenwich
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\UCT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\UCT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\Universal -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\Universal
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\UTC -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\UTC
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Etc\Zulu -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Etc\Zulu
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Amsterdam -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Amsterdam
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Andorra -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Andorra
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Astrakhan -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Astrakhan
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Athens -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Athens
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Belfast -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Belfast
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Belgrade -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Belgrade
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Berlin -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Berlin
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Bratislava -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Bratislava
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Brussels -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Brussels
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Bucharest -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Bucharest
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Budapest -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Budapest
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Busingen -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Busingen
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Chisinau -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Chisinau
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Copenhagen -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Copenhagen
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Dublin -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Dublin
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Gibraltar -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Gibraltar
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Guernsey -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Guernsey
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Helsinki -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Helsinki
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Isle_of_Man -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Isle_of_Man
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Istanbul -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Istanbul
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Jersey -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Jersey
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Kaliningrad -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Kaliningrad
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Kiev -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Kiev
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Kirov -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Kirov
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Lisbon -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Lisbon
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Ljubljana -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Ljubljana
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\London -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\London
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Luxembourg -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Luxembourg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Madrid -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Madrid
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Malta -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Malta
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Mariehamn -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Mariehamn
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Minsk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Minsk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Monaco -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Monaco
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Moscow -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Moscow
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Nicosia -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Nicosia
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Oslo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Oslo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Paris -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Paris
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Podgorica -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Podgorica
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Prague -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Prague
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Riga -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Riga
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Rome -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Rome
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Samara -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Samara
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\San_Marino -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\San_Marino
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Sarajevo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Sarajevo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Saratov -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Saratov
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Simferopol -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Simferopol
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Skopje -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Skopje
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Sofia -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Sofia
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Stockholm -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Stockholm
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Tallinn -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Tallinn
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Tirane -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Tirane
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Tiraspol -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Tiraspol
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Ulyanovsk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Ulyanovsk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Uzhgorod -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Uzhgorod
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Vaduz -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Vaduz
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Vatican -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Vatican
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Vienna -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Vienna
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Vilnius -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Vilnius
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Volgograd -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Volgograd
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Warsaw -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Warsaw
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Zagreb -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Zagreb
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Zaporozhye -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Zaporozhye
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Europe\Zurich -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Europe\Zurich
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Indian
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Indian\Antananarivo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Indian\Antananarivo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Indian\Chagos -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Indian\Chagos
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Indian\Christmas -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Indian\Christmas
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Indian\Cocos -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Indian\Cocos
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Indian\Comoro -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Indian\Comoro
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Indian\Kerguelen -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Indian\Kerguelen
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Indian\Mahe -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Indian\Mahe
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Indian\Maldives -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Indian\Maldives
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Indian\Mauritius -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Indian\Mauritius
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Indian\Mayotte -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Indian\Mayotte
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Indian\Reunion -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Indian\Reunion
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Mexico
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Mexico\BajaNorte -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Mexico\BajaNorte
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Mexico\BajaSur -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Mexico\BajaSur
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Mexico\General -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Mexico\General
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Apia -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Apia
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Auckland -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Auckland
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Bougainville -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Bougainville
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Chatham -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Chatham
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Chuuk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Chuuk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Easter -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Easter
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Efate -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Efate
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Enderbury -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Enderbury
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Fakaofo -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Fakaofo
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Fiji -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Fiji
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Funafuti -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Funafuti
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Galapagos -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Galapagos
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Gambier -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Gambier
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Guadalcanal -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Guadalcanal
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Guam -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Guam
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Honolulu -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Honolulu
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Johnston -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Johnston
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Kiritimati -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Kiritimati
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Kosrae -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Kosrae
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Kwajalein -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Kwajalein
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Majuro -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Majuro
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Marquesas -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Marquesas
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Midway -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Midway
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Nauru -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Nauru
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Niue -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Niue
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Norfolk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Norfolk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Noumea -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Noumea
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Pago_Pago -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Pago_Pago
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Palau -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Palau
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Pitcairn -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Pitcairn
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Pohnpei -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Pohnpei
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Ponape -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Ponape
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Port_Moresby -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Port_Moresby
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Rarotonga -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Rarotonga
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Saipan -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Saipan
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Samoa -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Samoa
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Tahiti -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Tahiti
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Tarawa -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Tarawa
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Tongatapu -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Tongatapu
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Truk -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Truk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Wake -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Wake
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Wallis -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Wallis
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\Pacific\Yap -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\Pacific\Yap
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\SystemV\AST4 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV\AST4
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\SystemV\AST4ADT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV\AST4ADT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\SystemV\CST6 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV\CST6
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\SystemV\CST6CDT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV\CST6CDT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\SystemV\EST5 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV\EST5
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\SystemV\EST5EDT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV\EST5EDT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\SystemV\HST10 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV\HST10
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\SystemV\MST7 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV\MST7
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\SystemV\MST7MDT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV\MST7MDT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\SystemV\PST8 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV\PST8
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\SystemV\PST8PDT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV\PST8PDT
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\SystemV\YST9 -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV\YST9
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\SystemV\YST9YDT -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\SystemV\YST9YDT
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\US\Alaska -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US\Alaska
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\US\Aleutian -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US\Aleutian
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\US\Arizona -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US\Arizona
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\US\Central -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US\Central
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\US\East-Indiana -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US\East-Indiana
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\US\Eastern -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US\Eastern
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\US\Hawaii -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US\Hawaii
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\US\Indiana-Starke -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US\Indiana-Starke
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\US\Michigan -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US\Michigan
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\US\Mountain -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US\Mountain
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\US\Pacific -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US\Pacific
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\US\Pacific-New -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US\Pacific-New
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tcl8.6\tzdata\US\Samoa -> build\exe.win-amd64-3.8\lib\tkinter\tcl8.6\tzdata\US\Samoa
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tk8.6\
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\bgerror.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\bgerror.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\button.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\button.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\choosedir.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\choosedir.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\clrpick.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\clrpick.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\comdlg.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\comdlg.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\console.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\console.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\dialog.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\dialog.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\entry.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\entry.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\focus.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\focus.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\fontchooser.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\fontchooser.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\iconlist.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\iconlist.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\icons.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\icons.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\license.terms -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\license.terms
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\listbox.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\listbox.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\megawidget.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\megawidget.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\menu.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\menu.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\mkpsenc.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\mkpsenc.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgbox.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgbox.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\obsolete.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\obsolete.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\optMenu.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\optMenu.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\palette.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\palette.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\panedwindow.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\panedwindow.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\pkgIndex.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\pkgIndex.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\safetk.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\safetk.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\scale.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\scale.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\scrlbar.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\scrlbar.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\spinbox.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\spinbox.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\tclIndex -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\tclIndex
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\tearoff.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\tearoff.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\text.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\text.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\tk.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\tk.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\tkfbox.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\tkfbox.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\unsupported.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\unsupported.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\xmfbox.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\xmfbox.tcl
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\anilabel.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\anilabel.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\aniwave.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\aniwave.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\arrow.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\arrow.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\bind.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\bind.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\bitmap.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\bitmap.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\browse -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\browse
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\button.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\button.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\check.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\check.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\clrpick.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\clrpick.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\colors.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\colors.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\combo.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\combo.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\cscroll.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\cscroll.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\ctext.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\ctext.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\dialog1.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\dialog1.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\dialog2.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\dialog2.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\en.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\en.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\entry1.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\entry1.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\entry2.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\entry2.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\entry3.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\entry3.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\filebox.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\filebox.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\floor.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\floor.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\fontchoose.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\fontchoose.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\form.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\form.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\goldberg.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\goldberg.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\hello -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\hello
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\hscale.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\hscale.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\icon.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\icon.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\image1.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\image1.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\image2.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\image2.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\items.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\items.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\ixset -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\ixset
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\knightstour.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\knightstour.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\label.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\label.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\labelframe.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\labelframe.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\license.terms -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\license.terms
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\mclist.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\mclist.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\menu.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\menu.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\menubu.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\menubu.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\msgbox.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\msgbox.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\nl.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\nl.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\paned1.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\paned1.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\paned2.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\paned2.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\pendulum.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\pendulum.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\plot.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\plot.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\puzzle.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\puzzle.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\radio.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\radio.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\README -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\README
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\rmt -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\rmt
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\rolodex -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\rolodex
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\ruler.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\ruler.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\sayings.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\sayings.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\search.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\search.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\spin.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\spin.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\square -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\square
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\states.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\states.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\style.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\style.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\tclIndex -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\tclIndex
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\tcolor -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\tcolor
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\text.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\text.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\textpeer.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\textpeer.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\timer -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\timer
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\toolbar.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\toolbar.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\tree.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\tree.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\ttkbut.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\ttkbut.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\ttkmenu.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\ttkmenu.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\ttknote.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\ttknote.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\ttkpane.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\ttkpane.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\ttkprogress.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\ttkprogress.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\ttkscale.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\ttkscale.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\twind.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\twind.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\unicodeout.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\unicodeout.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\vscale.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\vscale.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\widget -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\widget
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\images
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\images\earth.gif -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\images\earth.gif
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\images\earthmenu.png -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\images\earthmenu.png
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\images\earthris.gif -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\images\earthris.gif
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\images\flagdown.xbm -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\images\flagdown.xbm
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\images\flagup.xbm -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\images\flagup.xbm
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\images\gray25.xbm -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\images\gray25.xbm
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\images\letters.xbm -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\images\letters.xbm
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\images\noletter.xbm -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\images\noletter.xbm
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\images\ouster.png -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\images\ouster.png
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\images\pattern.xbm -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\images\pattern.xbm
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\images\tcllogo.gif -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\images\tcllogo.gif
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\demos\images\teapot.ppm -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\demos\images\teapot.ppm
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\images\logo.eps -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images\logo.eps
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\images\logo100.gif -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images\logo100.gif
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\images\logo64.gif -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images\logo64.gif
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\images\logoLarge.gif -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images\logoLarge.gif
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\images\logoMed.gif -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images\logoMed.gif
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\images\pwrdLogo.eps -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images\pwrdLogo.eps
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\images\pwrdLogo100.gif -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images\pwrdLogo100.gif
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\images\pwrdLogo150.gif -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images\pwrdLogo150.gif
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\images\pwrdLogo175.gif -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images\pwrdLogo175.gif
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\images\pwrdLogo200.gif -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images\pwrdLogo200.gif
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\images\pwrdLogo75.gif -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images\pwrdLogo75.gif
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\images\README -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images\README
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\images\tai-ku.gif -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\images\tai-ku.gif
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\cs.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\cs.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\da.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\da.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\de.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\de.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\el.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\el.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\en.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\en.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\en_gb.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\en_gb.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\eo.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\eo.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\es.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\es.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\fr.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\fr.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\hu.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\hu.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\it.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\it.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\nl.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\nl.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\pl.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\pl.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\pt.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\pt.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\ru.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\ru.msg
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\msgs\sv.msg -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\msgs\sv.msg
+creating directory build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\altTheme.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\altTheme.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\aquaTheme.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\aquaTheme.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\button.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\button.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\clamTheme.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\clamTheme.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\classicTheme.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\classicTheme.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\combobox.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\combobox.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\cursors.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\cursors.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\defaults.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\defaults.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\entry.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\entry.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\fonts.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\fonts.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\menubutton.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\menubutton.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\notebook.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\notebook.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\panedwindow.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\panedwindow.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\progress.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\progress.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\scale.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\scale.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\scrollbar.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\scrollbar.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\sizegrip.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\sizegrip.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\spinbox.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\spinbox.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\treeview.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\treeview.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\ttk.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\ttk.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\utils.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\utils.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\vistaTheme.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\vistaTheme.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\winTheme.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\winTheme.tcl
+copying C:\Users\takanori\miniconda3\envs\m3u8\tcl\tk8.6\ttk\xpTheme.tcl -> build\exe.win-amd64-3.8\lib\tkinter\tk8.6\ttk\xpTheme.tcl
