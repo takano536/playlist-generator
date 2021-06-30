@@ -49,7 +49,7 @@ exe = Executable(
 )
 
 setup(
-    name='toggle_Hyper-V',
+    name='PlaylistGenerator',
     options={
         "build_exe": {
             "packages": packages,
