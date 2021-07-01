@@ -23,9 +23,33 @@ path: C:\Users\user\Documents\MyPlaylist.m3u8
 Successfully created m3u8 file
 Press enter key to quit...
 ```
+If you run it without any arguments, it will show you the available options.
+```
+usage: main.py [-h] [-o OUTNAME] [--outfolder OUTFOLDER]
+               [--sort {filename,foldername,date,ext,filename-desc,foldername-desc,date-desc,ext-desc}]
+               [input ...]
+
+positional arguments:
+  input                 input music path or directory
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -o OUTNAME, --outname OUTNAME
+                        output playlist filename
+  --outfolder OUTFOLDER
+                        save the output in a certain folder
+  --sort {filename,foldername,date,ext,filename-desc,foldername-desc,date-desc,ext-desc}
+                        how to sort songs (default=filename)
+```
 
 ## Command line options
 The following options can be specified in this software.
+### input file
+```
+<path of file or folder>
+This is a required argument.
+You can specify more than one file path or folder path.
+```
 #### Output file name
 ```
 -o <output file name>, --outname <output file name>

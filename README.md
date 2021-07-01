@@ -23,9 +23,33 @@ path: C:\Users\user\Documents\MyPlaylist.m3u8
 Successfully created m3u8 file
 Press enter key to quit...
 ```
+引数を何も指定せずに実行すると、利用可能なオプションが表示されます。
+```
+usage: main.py [-h] [-o OUTNAME] [--outfolder OUTFOLDER]
+               [--sort {filename,foldername,date,ext,filename-desc,foldername-desc,date-desc,ext-desc}]
+               [input ...]
+
+positional arguments:
+  input                 input music path or directory
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -o OUTNAME, --outname OUTNAME
+                        output playlist filename
+  --outfolder OUTFOLDER
+                        save the output in a certain folder
+  --sort {filename,foldername,date,ext,filename-desc,foldername-desc,date-desc,ext-desc}
+                        how to sort songs (default=filename)
+```
 
 ## コマンドラインオプション
 本ソフトでは、以下のオプションを指定できます。
+### 入力ファイル
+```
+<ファイルのパスやフォルダのパス>
+必須の引数です。
+ファイルのパスやフォルダのパスを複数指定することができます。
+```
 ### 出力ファイル名
 ```
 -o <出力ファイル名>, --outname <出力ファイル名>
