@@ -9,7 +9,7 @@ PlaylistGenerator.exe --help
 ```
 以下のコマンドは、プレイリストを作成するコマンドの一例です。
 ```
-PlaylistGenerator.exe music.mp3 song.mp3 -o MyPlaylist --outfolder C:\Users\user\Documents
+PlaylistGenerator.exe music.mp3 C:\Users\user\Music song.mp3 -o MyPlaylist --outfolder C:\Users\user\Documents
 ```
 実行後、実行結果が出力されます。
 ```
@@ -23,7 +23,7 @@ Press enter key to quit...
 本ソフトでは、以下のオプションを指定できます。
 ```
 -o <出力ファイル名>, --outname <出力ファイル名>
-出力するファイル名を指定します。フォルダを指定することもできます。
+出力するファイル名を指定します。
 指定がなかった場合、プレイリストの一番最初の曲の名前と同様の名前になります。
 ```
 ```
