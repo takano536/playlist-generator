@@ -83,4 +83,4 @@ optional arguments:
 `.mp3` `.wma` `.oma` `.flac` `.wav` `.mp4` `.m4a` `.3gp` `.aif` `.aiff` `.afc` `.ogg` `.aifc`  
 
 ## ライセンス
-本ソフトは無保証です。詳しくは[LICENSE](LICENSE)を御覧ください。
+本ソフトは無保証です。詳しくは[LICENSE](LICENSE)をご覧ください。
