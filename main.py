@@ -4,6 +4,7 @@ import os
 import sys
 import itertools
 import functools
+import re
 
 
 EXT = [
@@ -11,6 +12,11 @@ EXT = [
     'mp4', 'm4a', '3gp', 'aif', 'aiff',
     'afc', 'ogg', 'aifc'
 ]
+
+full_width = ''.join(chr(0xff01 + i) for i in range(94))
+half_width = ''.join(chr(0x21 + i) for i in range(94))
+full2half = str.maketrans(full_width, half_width)
+symbol_regex = '[\\u3000 !"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~]'
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
@@ -35,38 +41,48 @@ parser.add_argument(
 args = parser.parse_args()
 
 
-def natural_sort_cmp(a_substr, b_substr):
-    for i in range(min(len(a_substr), len(b_substr))):
-        if a_substr[i].isdigit() and b_substr[i].isdigit():
-            a_substr[i] = int(a_substr[i])
-            b_substr[i] = int(b_substr[i])
-
-        if a_substr[i] != b_substr[i]:
-            return 1 if a_substr[i] > b_substr[i] else -1
-
-        if i >= len(a_substr) - 1 or i >= len(b_substr) - 1:
-            return 1 if i == len(a_substr) - 1 else -1
-    return 0
+def divide_num_char_sym(string: str):
+    substr = list()
+    string = string.translate(full2half)
+    groups = itertools.groupby(string, lambda char: 1 if char.isdigit() else -1 if re.match(symbol_regex, char) else 0)
+    for _, group in groups:
+        substr.append(''.join(group))
+    return substr
 
 
-def filename_natural_sort(a, b):
-    a_substr = [''.join(substr) for _, substr in itertools.groupby(os.path.basename(a), str.isdigit)]
-    b_substr = [''.join(substr) for _, substr in itertools.groupby(os.path.basename(b), str.isdigit)]
-    return natural_sort_cmp(a_substr, b_substr)
+def natural_sort_cmp(a_str: str, b_str: str, ext_cmp: bool):
+    if ext_cmp and os.path.splitext(a_str)[1] != os.path.splitext(b_str)[1]:
+        return 1 if os.path.splitext(a_str)[1] > os.path.splitext(b_str)[1] else -1
 
+    a_str, b_str = divide_num_char_sym(a_str), divide_num_char_sym(b_str)
+    rep_cnt = 0
+    for (a_substr, b_substr) in zip(a_str, b_str):
+        a_swap, b_swap = False, False
+        if re.match(symbol_regex, a_substr) and a_str[rep_cnt + 1].isdigit():
+            a_str[rep_cnt], a_str[rep_cnt + 1] = a_str[rep_cnt + 1], a_str[rep_cnt]
+            a_substr = a_str[rep_cnt]
+            a_swap = True
+        if re.match(symbol_regex, b_substr) and b_str[rep_cnt + 1].isdigit():
+            b_str[rep_cnt], b_str[rep_cnt + 1] = b_str[rep_cnt + 1], b_str[rep_cnt]
+            b_substr = b_str[rep_cnt]
+            b_swap = True
 
-def foldername_natural_sort(a, b):
-    a_substr = [''.join(substr) for _, substr in itertools.groupby(a, str.isdigit)]
-    b_substr = [''.join(substr) for _, substr in itertools.groupby(b, str.isdigit)]
-    return natural_sort_cmp(a_substr, b_substr)
+        if a_substr.isdigit() and b_substr.isdigit():
+            a_substr = float(a_substr) - len(a_substr) * 0.1
+            b_substr = float(b_substr) - len(b_substr) * 0.1
 
+        if a_substr != b_substr:
+            return 1 if a_substr > b_substr else -1
 
-def ext_sort(a, b):
-    a_ext = os.path.splitext(a)[1][1:]
-    b_ext = os.path.splitext(b)[1][1:]
-    if a_ext != b_ext:
-        return 1 if a_ext > b_ext else -1
-    return filename_natural_sort(a, b)
+        if a_swap != b_swap:
+            return 1 if b_swap else -1
+
+        rep_cnt += 1
+
+    if len(a_str) == len(b_str):
+        return 0
+    else:
+        return 1 if len(a_str) > len(b_str) else -1
 
 
 def input_files():
@@ -91,7 +107,7 @@ def input_files():
     return ret
 
 
-def duplicate_rename(filepath):
+def duplicate_rename(filepath: str):
     if not os.path.exists(filepath):
         return os.path.basename(filepath)
 
@@ -156,22 +172,25 @@ def create_playlist(files):
 def main():
     files = input_files()
 
+    for file in files:
+        divide_num_char_sym(file)
+
     if args.sort == 'filename-desc':
-        files.sort(key=functools.cmp_to_key(filename_natural_sort), reverse=True)
+        files.sort(key=functools.cmp_to_key(lambda a, b: natural_sort_cmp(os.path.basename(a), os.path.basename(b), False)), reverse=True)
     elif args.sort == 'foldername':
-        files.sort(key=functools.cmp_to_key(foldername_natural_sort))
+        files.sort(key=functools.cmp_to_key(lambda a, b: natural_sort_cmp(a, b, False)))
     elif args.sort == 'foldername-desc':
-        files.sort(key=functools.cmp_to_key(foldername_natural_sort), reverse=True)
+        files.sort(key=functools.cmp_to_key(lambda a, b: natural_sort_cmp(a, b, False)), reverse=True)
     elif args.sort == 'date' and os.name == 'nt':
         files.sort(key=lambda file_path: os.path.getctime(file_path))
     elif args.sort == 'date-desc' and os.name == 'nt':
         files.sort(key=lambda file_path: os.path.getctime(file_path), reverse=True)
     elif args.sort == 'ext':
-        files.sort(key=functools.cmp_to_key(ext_sort))
+        files.sort(key=functools.cmp_to_key(lambda a, b: natural_sort_cmp(os.path.basename(a), os.path.basename(b), True)))
     elif args.sort == 'ext-desc':
-        files.sort(key=functools.cmp_to_key(ext_sort), reverse=True)
+        files.sort(key=functools.cmp_to_key(lambda a, b: natural_sort_cmp(os.path.basename(a), os.path.basename(b), True)), reverse=True)
     else:
-        files.sort(key=functools.cmp_to_key(filename_natural_sort))
+        files.sort(key=functools.cmp_to_key(lambda a, b: natural_sort_cmp(os.path.basename(a), os.path.basename(b), False)))
 
     if create_playlist(files) == 0:
         print('Successfully created m3u8 file')
