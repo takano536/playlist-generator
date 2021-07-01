@@ -7,7 +7,8 @@ This tool is good at creating playlists of numbered audio files.
 This tool can sort [naturallly](https://en.wikipedia.org/wiki/Natural_sort_order) like in Windows Explorer.
 
 ## Usage
-PlaylistGenerator.exe is a command line tool. Drag and drop the audio file you want to add to the playlist, or launch a command prompt and type in the following command to use it.
+PlaylistGenerator.exe is a command line tool.  
+Drag and drop the audio file you want to add to the playlist, or launch a command prompt and type in the following command to use it.
 ```
 PlaylistGenerator.exe --help
 ```
@@ -53,7 +54,7 @@ The default value is "filename".
 ```
 
 ## Note
-`date` and `date-desc` only works on Windows.
+`date` and `date-desc` only works on Windows.  
 The following are audio files that can be imported by this tool.  
 `.mp3` `.wma` `.oma` `.flac` `.wav` `.mp4` `.m4a` `.3gp` `.aif` `.aiff` `.afc` `.ogg` `.aifc`  
 
