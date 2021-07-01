@@ -35,8 +35,8 @@ parser.add_argument(
 parser.add_argument(
     '--sort',
     choices=['filename', 'foldername', 'date', 'ext', 'filename-desc', 'foldername-desc', 'date-desc', 'ext-desc'],
-    default='name',
-    help='how to sort songs (default=name)'
+    default='filename',
+    help='how to sort songs (default=filename)'
 )
 args = parser.parse_args()
 
