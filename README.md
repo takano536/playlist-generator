@@ -1,5 +1,5 @@
 # playlist-generator
-本ツールは、m3u8形式のプレイリストファイルを自動で作成するツールです。
+本ツールは、m3u8形式のプレイリストファイルを自動で生成するツールです。
 [こちらのreleasesページ](https://github.com/takano536/playlist-generator/releases)からダウンロードすることができます。
 
 ## 使い方
