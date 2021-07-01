@@ -1,10 +1,11 @@
+[English](README_EN.md)
 # playlist-generator
 本ツールは、m3u8形式のプレイリストファイルを自動で生成するツールです。
 [こちらのreleasesページ](https://github.com/takano536/playlist-generator/releases)からダウンロードすることができます。
 
 ## 特徴
 本ツールは、ナンバリングされている音声ファイルのプレイリストを作成することに特化したツールです。  
-Windows Explorerのような[自然順](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E9%A0%86)ソートが可能です。
+Windows Explorerのような[自然順ソート](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E9%A0%86)が可能です。
 
 ## 使い方
 「PlaylistGenerator.exe」は、CLIソフトです。プレイリストに追加したい音声ファイルをドラッグ・アンド・ドロップするか、コマンドプロンプトを立ち上げ、以下のようなコマンドを打ち込み、使用してください。
@@ -13,9 +14,9 @@ PlaylistGenerator.exe --help
 ```
 以下のコマンドは、プレイリストを作成するコマンドの一例です。
 ```
-PlaylistGenerator.exe music.mp3 C:\Users\user\Music song.mp3 -o MyPlaylist --outfolder C:\Users\user\Documents
+PlaylistGenerator.exe music.mp3 C:\Users\user\Music -o MyPlaylist --outfolder C:\Users\user\Documents
 ```
-実行後、実行結果が出力されます。
+以下は、実行結果例です。
 ```
 "MyPlaylist.m3u8" was created
 path: C:\Users\user\Documents\MyPlaylist.m3u8
@@ -25,22 +26,22 @@ Press enter key to quit...
 
 ## コマンドラインオプション
 本ソフトでは、以下のオプションを指定できます。
-#### 出力ファイル名
+### 出力ファイル名
 ```
 -o <出力ファイル名>, --outname <出力ファイル名>
 ファイル名を指定します。
 指定がなかった場合、プレイリストの先頭の曲名と同様の名前になります。
 ```
-#### 出力フォルダ
+### 出力フォルダ
 ```
 --outfolder <出力フォルダ先>
 ファイルの出力先を指定します。
 指定がなかった場合、すべての曲が含まれている、最も深い親フォルダに出力されます。
 ```
-#### 曲の並び方
+### 曲の並べ方
 ```
 --sort <filename|foldername|date|ext|filename-desc|foldername-desc|date-desc|ext-desc>
-曲の並び方を指定します。
+曲の並べ方を指定します。
 デフォルト値は「filename」です。
 * filename        : ファイル名で昇順に並びます。
 * foldername      : フォルダ名で昇順に並び、同一フォルダ内に複数のファイルが有る場合、ファイル名で昇順に並びます。
@@ -53,7 +54,7 @@ Press enter key to quit...
 ```
 
 ## 注意
-作成日時順ソートはWindowsでしか動作しません。
+作成日時順ソートはWindowsでしか動作しません。  
 本ツールで読み込める音声ファイルの種類は以下の通りになります。  
 `.mp3` `.wma` `.oma` `.flac` `.wav` `.mp4` `.m4a` `.3gp` `.aif` `.aiff` `.afc` `.ogg` `.aifc`  
 
