@@ -25,9 +25,9 @@ Press enter key to quit...
 ```
 引数を何も指定せずに実行すると、利用可能なオプションが表示されます。
 ```
-usage: main.py [-h] [-o OUTNAME] [--outfolder OUTFOLDER]
-               [--sort {filename,foldername,date,ext,filename-desc,foldername-desc,date-desc,ext-desc}]
-               [input ...]
+usage: PlaylistGenerator.exe [-h] [-o OUTNAME] [--outfolder OUTFOLDER]
+                             [--sort {filename,foldername,date,ext,filename-desc,foldername-desc,date-desc,ext-desc}]
+                             [input ...]
 
 positional arguments:
   input                 input music path or directory
